@@ -6,7 +6,7 @@ import java.util.ArrayList;
  *
  * @author Herc
  */
-public class JavaApplication11 {
+public class Mini {
 
     public static void main(String[] args) {
 
